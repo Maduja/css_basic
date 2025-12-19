@@ -1,0 +1,23 @@
+p{
+    color: darkmagenta;
+}
+
+#welcome{
+    color: darkblue;
+}
+
+.hero{
+    color: deeppink;
+}
+
+p .hero{
+    color: cornflowerblue;
+}
+
+*{
+
+}
+
+p,h5{
+    
+}

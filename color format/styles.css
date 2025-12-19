@@ -1,0 +1,11 @@
+h1{
+    /*color: purple;*/
+    /*htmlcolorcode.com*/
+    color: #800080;
+    color: rgb(156 133 109);
+    color: rgba(156, 133, 109, 0.233);
+    color: hsl(31, 30, 52);
+    color: hsla(31, 30%, 52%, 0.856);
+    opacity: 40%;
+    color: hsl(hue, saturation, lightness);
+}
