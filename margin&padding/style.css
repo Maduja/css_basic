@@ -1,0 +1,9 @@
+h1{
+    /* margin: 20px 10px; */
+    /* margin-top: 10px; */
+
+    margin: auto;
+    width: 200px;
+    border: solid 5px red;
+    padding: 10px;
+}

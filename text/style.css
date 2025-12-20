@@ -1,0 +1,22 @@
+h1{
+    border: solid 2px black;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    color: brown;
+    background-color: bisque;
+    text-align: justify;
+    /* text-decoration: overline; */
+    text-decoration-line:underline ;
+    text-decoration-color: green;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px black;
+    line-height: 50px;
+    word-spacing: 20px;
+}
