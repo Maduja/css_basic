@@ -1,0 +1,14 @@
+/* img{
+    height: 70px;
+    width: 100px;
+    float: left;
+} */
+
+
+.dis{
+    background-color: darksalmon;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+ 
