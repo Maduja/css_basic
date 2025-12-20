@@ -1,0 +1,25 @@
+.content .para{
+    border: 2px red solid;
+    /* position: relative;
+    left: 40px; */
+    /* position: absolute;
+    bottom: 10px; */
+    /* position: sticky;
+    top: 0px;
+    background-color: brown;
+    color: #fff; */
+    /* width: 100px;
+    height: 100px;
+    overflow: scroll;
+    overflow-x:hidden ; */
+
+    position: fixed;
+    background-color: brown;
+    z-index: -1;
+}
+
+
+/* .content .para{
+    background-color: darkkhaki;
+} */
+
